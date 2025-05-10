@@ -1,23 +1,55 @@
-# 🐍 03_Conditional_Statements_Advanced_Exercise
+# 🐍 Python Basics
+### 🐍 Advanced Solutions
 
-Welcome to the **Conditional Statements Advanced Exercise** repository! 🎉 This section includes a variety of exercises to help you practice advanced conditional statements in Python. ✋👋
+Welcome to the **Python Basics** repository! 🎉
 
----
+> ⚠️ **Note:** The solutions in this repository go **beyond the standard course level** and often apply **advanced techniques, idiomatic patterns, and optimized approaches**. These are meant to challenge and inspire deeper learning while reinforcing foundational concepts. 💡🔥
 
-### 📚 Problems:
-
-- ✔️ **01_Cinema.py**
-- ✔️ **02_Summer_Outfit.py**
-- ✔️ **03_New_House.py**
-- ✔️ **04_Fishing_Boat.py**
-- ✔️ **05_Journey.py**
-- ✔️ **06_Operations_Between_Numbers.py**
-- ✔️ **07_Hotel_Room.py**
-- ✔️ **08_On_Time_for_the_Exam.py**
-- ✔️ **09_Ski_Trip.py**
+Here you'll find solutions for various foundational topics and exercises to strengthen your Python programming skills. 💻✨
 
 ---
 
-🚀 These exercises are based on SoftUni Judge problems, which provide hands-on practice to strengthen your programming skills. ✋👋
+## 1️⃣ Python Basics
 
-Happy Coding! ✨
+### 1.1. 🚀 First Steps in Coding - Lab ✋  
+### 1.2. 🛠️ First Steps in Coding - Exercise ✔️
+
+---
+
+## 2️⃣ Conditional Statements
+
+### 2.1. 🔍 Conditional Statements - Lab 👋  
+### 2.2. 🧪 Conditional Statements - Exercise ✔️
+
+---
+
+## 3️⃣ Conditional Statements Advanced
+
+### 3.1. 🚦 Conditional Statements Advanced - Lab ✋  
+### 3.2. 🏗️ Conditional Statements Advanced - Exercise ✔️
+
+---
+
+## 4️⃣ For Loop
+
+### 4.1. 🔄 For Loop - Lab ✋  
+### 4.2. 📚 For Loop - Exercise 👋✔️
+
+---
+
+## 5️⃣ While Loop
+
+### 5.1. 🔁 While Loop - Lab ✋  
+### 5.2. ✏️ While Loop - Exercise ✔️
+
+---
+
+## 6️⃣ Nested Loops
+
+### 6.1. 🔍 Nested Loops - Lab 👋  
+### 6.2. 🔧 Nested Loops - Exercise ✔️
+
+---
+
+Happy Coding! 🚀✨✋✔️  
+**Explore boldly. Learn deeply. Code smarter.** 🧠💥
